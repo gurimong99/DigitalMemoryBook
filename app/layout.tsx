@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Digital Memory Book",
-  description: "소중한 기억을 기록하고 보관하는 디지털 메모리북",
+  title: "복순네 | 디지털 추모관과 49제 예약",
+  description: "고인의 기억을 보관하고 49제와 기제사 준비를 연결하는 온라인 추모 플랫폼",
 };
 
 export default function RootLayout({
